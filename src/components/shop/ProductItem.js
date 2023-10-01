@@ -43,9 +43,10 @@ const styles = StyleSheet.create({
     borderRadius: 10,
     backgroundColor: "white",
     height: 300,
-    width: 175,
-    margin: 20,
+    width: 180,
+    margin: 8,
     overflow: "hidden",
+    // backgroundColor:"pink"
   },
   image: {
     width: "100%",
